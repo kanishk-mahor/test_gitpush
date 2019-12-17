@@ -1,1 +1,1 @@
-print("python")
+print("python_is_fun")
